@@ -77,7 +77,7 @@ __subject_train.txt:__  Each row identifies the subject who performed the activi
        
 __X_test.txt:__  Test data where each feature vector is a row and the columns are the measurements described above.  There are 561 columns, 2947 rows, and no column labels are present.  __Processing:__  Assign column names using the created features list.
 
-__y_test.txt'__  Numeric test class labels. 2947 rows, 1 column for the class.
+__y_test.txt__  Numeric test class labels. 2947 rows, 1 column for the class.
 
 __subject_test.txt:__  Each row identifies the subject who performed the activity for each window sample. There are 2947 rows and 1 column for the subject ID.  __Processing:__  Combine columns of all 3 test data sets and assign 'Subject' and 'Class' labels.  Every column in the combined test data now have descriptive labels.
 
