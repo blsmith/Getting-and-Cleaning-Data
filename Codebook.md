@@ -89,3 +89,6 @@ __Processing:__
 # Code Book for Final Data 'tidy'
 
 The data set contains 180 rows and 82 columns.  Each row represents the required mean calculations by subject and activity.
+The column labels are: (1) Subject, (2) Activity, (3) Class, (4-82) Mean_<existing variable name from feature vector> where the 'Mean' to the existing variable label.	
+
+	 
