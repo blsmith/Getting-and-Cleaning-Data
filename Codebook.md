@@ -84,3 +84,8 @@ __Processing:__
 
 * Using the extracted mean/standard deviation data (avgstd), calculate column averages by subject and activity.
 * Create a tidy data set, 'tidy', containing these new derivations, subject, activity, and class.  Set row.names to FALSE.
+
+
+# Code Book for Final Data 'tidy'
+
+The data set contains 180 rows and 82 columns.  Each row represents the required mean calculations by subject and activity.
